@@ -1,0 +1,30 @@
+[
+ {
+   "Name": "administrator",
+   "Email": "administrator@admin.com",
+   "Date": "7th May 2017",
+   "Access": "admin",
+   "Action": "Edit"
+ },
+ {
+   "Name": "jordannnn",
+   "Email": "drrrrr@admin.com",
+   "Date": "7th May 2017",
+   "Access": "admin",
+   "Action": "Edit"
+ },
+ {
+   "Name": "asiha",
+   "Email": "asasr@admin.com",
+   "Date": "7th May 2017",
+   "Access": "user",
+   "Action": "Edit"
+ },
+ {
+   "Name": "gifty",
+   "Email": "abrewa@mail.com",
+   "Date": "7th May 2017",
+   "Access": "user",
+   "Action": "Edit"
+ }
+]

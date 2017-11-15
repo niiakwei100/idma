@@ -58,8 +58,6 @@ $(document).ready(function() {
 
       });
 
-
-
       $('#phone').DataTable({
             "responsive": true,
             "processing": true, //Feature control the processing indicator.
